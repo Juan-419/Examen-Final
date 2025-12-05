@@ -26,3 +26,4 @@ https://examen-final-0tdx.onrender.com/
 <br> si bro, del de cliente de mi proyecto
 <br>Listo bro, creo que ya está redi el problema que te daba en jugador
 <br> Pos acabe de copiar tu router y aun me aparece subrayado como si hubiera error
+<br>SI? dios a mi me aparece que todo anda god, le estoy haciendo es el jugador.html y la navbar para que por lo menos la pagina se vea medio bien, tambien si quieres voy a ver para hacer la principal, osea el index
