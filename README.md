@@ -22,3 +22,4 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> bro voy a ir haciendo el coso de los requeriments, mientras subes los cambios, porque me da cosa subir los mios que se choquen con los tuyos
 <br>Listo bro, ahí le traté de hacer las relations pero quedé trululu para lo de estadisticas
 <br>Si quieres metele tus cambios y miramos a ver que
+<br> jsjsjsjss dale, voy a ver que puedo hacer
