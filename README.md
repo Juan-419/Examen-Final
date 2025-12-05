@@ -8,3 +8,4 @@ Listo listo voy a ver si se me van generando los cambios que hagas
 *Estoy intentando subir los cambios pero tampoco me deja normal, me dice que defina mi user.gmail, voy a ver para hacer los commits por la terminal<br>
 Dalo, porque majo y yo estamos en las mismas<br>
 *Ya pude bro, está facil, si no puedes me avisas<br>
+#COMO CARAJINHOS LO HICISTE BRO
