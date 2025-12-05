@@ -25,3 +25,4 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> jsjsjsjss dale, voy a ver que puedo hacer
 <br> por cierto hay ya hice lo de los requerimeitnos
 <br> si vi, ya le instalé los requirements, si quieres ve haciendo o mirando lo de los models y yo voy haciendo el main
+<br> Dale, pos toca instalarle mas requerimiento ajsjasjas. y mirando, sera que dejamos lo de faltas en jugador o en estadisticas?
