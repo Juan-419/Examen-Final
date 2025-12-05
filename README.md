@@ -18,3 +18,5 @@ https://examen-final-0tdx.onrender.com/
 <br> bro toca meter los routers en carpetas, no se pueden dejar ahi tirados a la loca
 <br>Bro soy una hueva, me comí los cambios que le hiciste a los models, que cambios le has hecho?? para saber en que continuo
 <br> JAKSJASAJAS, tranqui, pos lo que hice fue cambiarle de que fuera de int a date en el coso de la fehca de nacimiento, y le añadi el coso de dorsal a jugador 
+<br>
+<br>  Avamce en la mamada esa de router del jugador pero hay cosas que me las marca como error, no se si en tu visual salga asi?
