@@ -25,4 +25,4 @@ https://examen-final-0tdx.onrender.com/
 <br>Bro, de donde te guiaste para hacer el router de Jugador, del tuyo si?
 <br> si bro, del de cliente de mi proyecto
 <br>Listo bro, creo que ya está redi el problema que te daba en jugador
-<br>
+<br> Pos acabe de copiar tu router y aun me aparece subrayado como si hubiera error
