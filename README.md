@@ -16,3 +16,4 @@ pues bro si quieres mira <br>(Bro bro, si quires mejor hazlo desde la terminal: 
 eso es para visual bro, porque la real no se con pycharm como será
 
 <br>#Nah me lo mama  visual, voy a hacer con ptcharm, voy a ir añadiendo lo de los modelos a ver
+<br> Si te salen mis cambios de los modelos?
