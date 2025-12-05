@@ -23,3 +23,4 @@ https://examen-final-0tdx.onrender.com/
 <br>ya reviso bro, estaba viendo como hacia lo del model de partido pero no se como le podríamos hacer para lo del resultado
 <br> esa si no tengo idea
 <br>Bro, de donde te guiaste para hacer el router de Jugador, del tuyo si?
+<br> si bro, del de cliente de mi proyecto
