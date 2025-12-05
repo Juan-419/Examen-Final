@@ -1,5 +1,7 @@
+from dataclasses import field
 from sqlmodel import SQLModel, Field, Relationship
 from typing import Optional, List
+from datetime import date
 from utils.positions import Position
 from utils.states import States
 
@@ -12,28 +14,34 @@ class JugadorPosicionLink(SQLModel, table=True):
     posicion: Optional[int] = Field(default=None, foreign_key="position.", primary_key=True)
 
 class JugadorBase(SQLModel):
+    dorsal[int] = Field(default=None, primary_key=True)
     nombre: Optional[str]=None
-    altura: Optional[str]=None
-    peso: Optional[str]=None
-    año_nacimiento: Optional[str]=None
+    altura: Optional[float]=None
+    peso: Optional[float]=None
+    año_nacimiento: Optional[date]=None
     pie_dominante: Optional[str]=None
-    tiempo_cancha: Optional[str]=None
-    goles: Optional[str]=None
-    faltas: Optional[str]=None
+    tiempo_cancha: Optional[int]=None
+    goles: Optional[int]=None
+    faltas: Optional[int]=None
+    fecha_nacimiento: Optional[date]=None
+
     
 
 class Jugador(JugadorBase, table=True):
     dorsal:Optional[str]=None
+    nombre = Optional[str]=None
     active: bool = Field(default=True)
     estadisticas: List[Estadistica] = Relationship(back_populates="jugador", link_model=JugadorEstadisticasLink)
-    posición: List[]=
+    posición: List[str]= Relationship(back_populates="")
 
 class EstadisticaBase(SQLModel):
-   tiempo:
+    goles: Optional[int]=None
+    faltas: Optional[int]=None
+    tiempo_de_juego:[int]=None
 
 
 class Estadistica(EstadisticaBase, table=True):
-    pass
+    id: Optional[int]
 
 
 class Partido():
