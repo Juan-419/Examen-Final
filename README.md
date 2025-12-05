@@ -23,3 +23,5 @@ https://examen-final-0tdx.onrender.com/
 <br>ya reviso bro, estaba viendo como hacia lo del model de partido pero no se como le podríamos hacer para lo del resultado
 
 <br>
+
+<br> esa si no tengo idea
