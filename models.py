@@ -14,7 +14,6 @@ class JugadorPosicionLink(SQLModel, table=True):
     posicion: Optional[int] = Field(default=None, foreign_key="position.", primary_key=True)
 
 class JugadorBase(SQLModel):
-    dorsal[int] = Field(default=None, primary_key=True)
     nombre: Optional[str]=None
     altura: Optional[float]=None
     peso: Optional[float]=None
@@ -28,22 +27,33 @@ class JugadorBase(SQLModel):
     
 
 class Jugador(JugadorBase, table=True):
-    dorsal: Optional[str]=None
+    dorsal:Optional[str]=None
     nombre = Optional[str]=None
     active: bool = Field(default=True)
-    estadisticas: List[Estadistica] = Relationship(back_populates="jugador", link_model=JugadorEstadisticasLink)
+    estadisticas: List["Estadistica"] = Relationship(back_populates="jugador", link_model=JugadorEstadisticasLink)
     posición: List[str]= Relationship(back_populates="")
 
 class EstadisticaBase(SQLModel):
     goles: Optional[int]=None
     faltas: Optional[int]=None
-    tiempo_de_juego:[int]=None
+    tiempo_de_juego:Optional[int]=None
 
 
 class Estadistica(EstadisticaBase, table=True):
     id: Optional[int]
+    
 
+class PartidoBase(SQLModel):
+    fecha:Optional[str]=None
+    resultado:Optional[int]=
 
-class Partido():
-    pass
+class Partido(PartidoBase):
+    
 
+class RivalesBase(SQLModel):
+
+pass
+
+class Rivales(RivalesBase, table=True):
+
+pass
