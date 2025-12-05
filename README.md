@@ -16,3 +16,9 @@ pues bro si quieres mira <br>(Bro bro, si quires mejor hazlo desde la terminal: 
 eso es para visual bro, porque la real no se con pycharm como será
 
 <br>#Nah me lo mama  visual, voy a hacer con ptcharm, voy a ir añadiendo lo de los modelos a ver
+<br> Si te salen mis cambios de los modelos?
+<br> SI bro, solo que esque ya le tenia artas cosas, perame yo subo mis cambios y ya me ayudas a seguir con ese a ver que le ves
+<br> Dale
+<br> bro voy a ir haciendo el coso de los requeriments, mientras subes los cambios, porque me da cosa subir los mios que se choquen con los tuyos
+<br>Listo bro, ahí le traté de hacer las relations pero quedé trululu para lo de estadisticas
+<br>Si quieres metele tus cambios y miramos a ver que
