@@ -30,3 +30,4 @@ https://examen-final-0tdx.onrender.com/
 <br>Dale, pos desde que te ande a ti todo bien, nice, y mirando creo que si va a ser necesario el id, porque hay cosas que por lo visto son necesarias
 <br>Y si, voy a crear el fokin id para poder editar y toda la mamamda
 <br>Epa si quieres ve mirando eso entonces del id y yo sigo aca con el index que ya voy adelantando 
+<br> Brooooo, necesito que vuelvas a desplegar el server (revivan el server) JSJSJS
