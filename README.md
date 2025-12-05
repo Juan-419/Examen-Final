@@ -29,3 +29,5 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> Dejemosla en estadísticas bro, ahí en las estadisticas jugasdor dice que es importante llevar las faltas y esa joa
 <br> Okey dale, mientras voy a ir haciendo los routers de verga
 <br> Broooo, yo ya estaba haciendolos JSJJSJSJ
+<br> aksjasjas, bro que bueno que lei porque ya les iba a hacer push ajskasjas
+
