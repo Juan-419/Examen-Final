@@ -3,6 +3,7 @@ from fastapi.responses import HTMLResponse, RedirectResponse
 from sqlmodel import Session, select
 from starlette.status import HTTP_303_SEE_OTHER
 from models import Jugador, JugadorBase
+from db import get_session
 
 
 router = APIRouter()
@@ -12,7 +13,7 @@ def listado_jugadores_html(request: Request, session: Session = Depends(get_sess
     Jugador = session.exec(select(Jugador).where(Jugador.active == True)).all()
     return request.app.state.templates.TemplateResponse(
         "jugador_list.html",
-        {"request": request, "jugadores": jugadores}
+        {"request": request, "jugadores": Jugador}
     )
 
 
@@ -33,7 +34,7 @@ async def crear_jugador(
     altura: float= Form(...),
     session: Session = Depends(get_session)
 ):
-
+    nuevo_jugador=Jugador(nombre=nombre, dorsal=dorsal,peso=peso,altura=altura, active=True)
     session.add(nuevo_jugador)
     session.commit()
     session.refresh(nuevo_jugador)
