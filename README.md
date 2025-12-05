@@ -29,3 +29,4 @@ https://examen-final-0tdx.onrender.com/
 <br>SI? dios a mi me aparece que todo anda god, le estoy haciendo es el jugador.html y la navbar para que por lo menos la pagina se vea medio bien, tambien si quieres voy a ver para hacer la principal, osea el index
 <br>Dale, pos desde que te ande a ti todo bien, nice, y mirando creo que si va a ser necesario el id, porque hay cosas que por lo visto son necesarias
 <br>Y si, voy a crear el fokin id para poder editar y toda la mamamda
+<br>Epa si quieres ve mirando eso entonces del id y yo sigo aca con el index que ya voy adelantando 
