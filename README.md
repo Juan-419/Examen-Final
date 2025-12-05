@@ -31,3 +31,4 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> Broooo, yo ya estaba haciendolos JSJJSJSJ
 <br> aksjasjas, bro que bueno que lei porque ya les iba a hacer push ajskasjas
 <br> bro toca meter los routers en carpetas, no se pueden dejar ahi tirados a la loca
+<br>Bro soy una hueva, me comí los cambios que le hiciste a los models, que cambios le has hecho?? para saber en que continuo
