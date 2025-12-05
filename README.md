@@ -11,4 +11,5 @@ Dalo, porque majo y yo estamos en las mismas<br>
 #COMO CARAJINHOS LO HICISTE BRO
 HOLAAA asdasdasd
 
-#YA PUDEEEEE ME TOCO CON PYCHARM
+#YA PUDEEEEE ME TOCO CON PYCHARM<br>
+pues bro si quieres mira <br>(Bro bro, si quires mejor hazlo desde la terminal: primero abre una terminal en el visual que sea terminal de Git bash(eso lo puedes definir a la derecha de la terminal),<br> luego le haces "git pull", para que te lleguen mis cambios, luego "git add .", luego haces el "git commit -m "mensaje tuyo" " y ya ahi me dejo hacerle el sync changes como le haciamos normalmente con el boton azul y luego me dejo iniciar la sesion con git para hacer los cambios faciles, me cuentas si te deja)
