@@ -20,3 +20,5 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> SI bro, solo que esque ya le tenia artas cosas, perame yo subo mis cambios y ya me ayudas a seguir con ese a ver que le ves
 <br> Dale
 <br> bro voy a ir haciendo el coso de los requeriments, mientras subes los cambios, porque me da cosa subir los mios que se choquen con los tuyos
+<br>Listo bro, ahí le traté de hacer las relations pero quedé trululu para lo de estadisticas
+<br>Si quieres metele tus cambios y miramos a ver que
