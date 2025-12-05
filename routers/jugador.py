@@ -4,6 +4,7 @@ from sqlmodel import Session, select
 from starlette.status import HTTP_303_SEE_OTHER
 from models import Jugador, JugadorBase
 from db import get_session
+from typing import Optional
 
 
 router = APIRouter()
@@ -60,6 +61,7 @@ async def editar_jugador(
     pie_dominante: str = Form(""),
     goles: int = Form(...),
     session: Session = Depends(get_session)
+
 ):
     cliente = session.get(Jugador, Jugador_id)
     if not cliente:
@@ -83,7 +85,7 @@ async def editar_jugador(
 
 
 
-@router.get(f"/eliminar/{Jugador_id}")
+@router.get("/eliminar/{Jugador_id}")
 def eliminar_Jugador(Jugador_id: int, session: Session = Depends(get_session)):
     Jugador = session.get(Jugador, Jugador_id)
     if Jugador:
@@ -106,12 +108,12 @@ def eliminados(request: Request, session: Session = Depends(get_session)):
 
 
 
-@router.get(f"/restaurar/{Jugador_id}")
+@router.get("/restaurar/{Jugador_id}")
 def restaurar_cliente(cliente_id: int, session: Session = Depends(get_session)):
-    cliente = session.get(Cliente, cliente_id)
+    cliente = session.get(Jugador, cliente_id)
     if cliente:
         cliente.active = True
         session.add(cliente)
         session.commit()
 
-    return RedirectResponse("/clientes/eliminados", status_code=HTTP_303_SEE_OTHER)
+    return RedirectResponse("/jugadores/eliminados", status_code=HTTP_303_SEE_OTHER)

@@ -18,24 +18,43 @@
                         </div>
 
                         <div class="mb-3">
-                            <label class="form-label"></label>
-                            <input type="text" class="form-control" name="telefono">
+                            <label class="form-label">Altura(en centimetros)</label>
+                            <input type="number" class="form-control" name="altura">
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label class="form-label">peso</label>
+                            <input type="text" class="form-control" name="peso">
                         </div>
 
                         <div class="mb-3">
-                            <label class="form-label">Correo</label>
-                            <input type="email" class="form-control" name="correo">
-                        </div>
-
-                        <div class="mb-3">
-                            <label class="form-label">Año</label>
+                            <label class="form-label">Año de nacimiento</label>
                             <input type="number" class="form-control" name="anio" required>
                         </div>
 
                         <div class="mb-3">
-                            <label class="form-label">Foto del cliente</label>
-                            <input type="file" class="form-control" name="img" accept="image/*">
+                            <label class="form-label">pie dominante</label>
+                            <input type="text" class="form-control" name="pie_dominante" required>
+                            <select name="pie_derecho" id="pie_derecho">Pie derecho</select>
+                            <select name="pie_izquierdo" id="pie_izquierdo">Pie izquierdo</select>
                         </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Tiempo en cancha</label>
+                            <input type="number" class="form-control" name="tiempo_cancha" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Goles</label>
+                            <input type="number" class="form-control" name="goles" required>
+                        </div>
+
+
+                        <div class="mb-3">
+                            <label class="form-label">Faltas</label>
+                            <input type="number" class="form-control" name="Faltas" >
+                        </div>
+                    
 
                         <button class="btn btn-success w-100 mt-3">Guardar</button>
                     </form>
