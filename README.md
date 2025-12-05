@@ -20,3 +20,6 @@ https://examen-final-0tdx.onrender.com/
 <br> JAKSJASAJAS, tranqui, pos lo que hice fue cambiarle de que fuera de int a date en el coso de la fehca de nacimiento, y le añadi el coso de dorsal a jugador 
 <br>
 <br>  Avamce en la mamada esa de router del jugador pero hay cosas que me las marca como error, no se si en tu visual salga asi?
+<br>ya reviso bro, estaba viendo como hacia lo del model de partido pero no se como le podríamos hacer para lo del resultado
+
+<br>
