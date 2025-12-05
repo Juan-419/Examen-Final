@@ -21,7 +21,5 @@ https://examen-final-0tdx.onrender.com/
 <br>
 <br>  Avamce en la mamada esa de router del jugador pero hay cosas que me las marca como error, no se si en tu visual salga asi?
 <br>ya reviso bro, estaba viendo como hacia lo del model de partido pero no se como le podríamos hacer para lo del resultado
-
-<br>
-
 <br> esa si no tengo idea
+<br>Bro, de donde te guiaste para hacer el router de Jugador, del tuyo si?
