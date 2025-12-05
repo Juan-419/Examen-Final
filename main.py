@@ -1,9 +1,9 @@
 from fastapi import FastAPI,Request
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
-from db import create_db_and_tables, get_session
+from db import create_db_and_tables
 from jugadores import router as jugador_router
-from estadisticas import router as estadistica_router
+from routers.estadisticas import router as estadistica_router
 
 app = FastAPI(title="sigmotoa FC")
 

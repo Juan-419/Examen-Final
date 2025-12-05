@@ -28,7 +28,7 @@ class JugadorBase(SQLModel):
     
 
 class Jugador(JugadorBase, table=True):
-    dorsal:Optional[str]=None
+    dorsal: Optional[str]=None
     nombre = Optional[str]=None
     active: bool = Field(default=True)
     estadisticas: List[Estadistica] = Relationship(back_populates="jugador", link_model=JugadorEstadisticasLink)
