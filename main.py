@@ -3,6 +3,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from db import create_db_and_tables, get_session
 from jugadores import router as jugador_router
+from estadisticas import router as estadistica_router
 
 app = FastAPI(title="sigmotoa FC")
 
@@ -16,6 +17,7 @@ def on_startup():
     print("Base de datos inicializada y servidor listo.")
 
 app.include_router(jugador_router, prefix="/jugadores", tags=["Jugadores"])
+app.include_router(estadistica_router, prefix="/estadisticas", tags=["Estadisticas"])
 
 @app.get("/")
 async def root():
@@ -33,7 +35,7 @@ def root(request: Request):
         "index.html",
         {
             "request": request,
-            "texto": "Bienvenido a la página de tu taller de confianza",
-            "titulo_pagina": "Taller de Carros - Inicio"
+            "texto": "Bienvenido a la página de sigmota FC",
+            "titulo_pagina": "Sigmotoa FC ⚽"
         }
     )
