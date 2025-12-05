@@ -26,3 +26,8 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br> por cierto hay ya hice lo de los requerimeitnos
 <br> si vi, ya le instalé los requirements, si quieres ve haciendo o mirando lo de los models y yo voy haciendo el main
 <br> Dale, pos toca instalarle mas requerimiento ajsjasjas. y mirando, sera que dejamos lo de faltas en jugador o en estadisticas?
+<br> Dejemosla en estadísticas bro, ahí en las estadisticas jugasdor dice que es importante llevar las faltas y esa joa
+<br> Okey dale, mientras voy a ir haciendo los routers de verga
+<br> Broooo, yo ya estaba haciendolos JSJJSJSJ
+<br> aksjasjas, bro que bueno que lei porque ya les iba a hacer push ajskasjas
+
