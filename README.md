@@ -5,5 +5,6 @@ no pasa na, igual el salto de linea se hace con el br, voy a tratar de adelantar
 #Listo bro ya quedo el server, no corre porque pos no hay nada que mostrar
 Listo listo voy a ver si se me van generando los cambios que hagas
 #Dale, pero es que no se mi visual no me deja subir los cambios, a ti si?
-*Estoy intentando subir los cambios pero tampoco me deja normal, me dice que defina mi user.gmail, voy a ver para hacer los commits por la terminal
-Dalo, porque majo y yo estamos en las mismas
+*Estoy intentando subir los cambios pero tampoco me deja normal, me dice que defina mi user.gmail, voy a ver para hacer los commits por la terminal<br>
+Dalo, porque majo y yo estamos en las mismas<br>
+*Ya pude bro, está facil, si no puedes me avisas<br>
