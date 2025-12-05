@@ -82,6 +82,7 @@ async def editar_jugador(
 
 
 
+
 @router.get(f"/eliminar/{Jugador_id}")
 def eliminar_Jugador(Jugador_id: int, session: Session = Depends(get_session)):
     Jugador = session.get(Jugador, Jugador_id)
