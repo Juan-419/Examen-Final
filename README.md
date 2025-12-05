@@ -10,3 +10,5 @@ Dalo, porque majo y yo estamos en las mismas<br>
 *Ya pude bro, está facil, si no puedes me avisas<br>
 #COMO CARAJINHOS LO HICISTE BRO
 HOLAAA asdasdasd
+
+#YA PUDEEEEE ME TOCO CON PYCHARM
