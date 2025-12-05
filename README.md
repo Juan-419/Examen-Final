@@ -142,6 +142,6 @@ ModuleNotFoundError: No module named 'psycopg2'
 <br> Ya le arregle unos problemas que aparecian en el router, voy a hacer el commit con otros ajustes que le metí
 <br> Bro, vuelve a desplegar el server, a ver si ya llama bien que vi un problema con el router a ver si ya por lo menos nos muestra la pag principal
 
-<br> Esa mierdota no carga, lleva 5 mins ahi la puta mierda esa
+<br> Eso no carga, lleva 5 mins ahi cargando
 
-<br> esa mierdota genero el mismo error que te apase
+<br> esa cosa me genero el mismo error que te apase
