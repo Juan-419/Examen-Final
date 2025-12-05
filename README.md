@@ -140,3 +140,4 @@ ModuleNotFoundError: No module named 'psycopg2'
 <br>
 <br> Revisa el router de jugador a ver si te genera error
 <br> Ya le arregle unos problemas que aparecian en el router, voy a hacer el commit con otros ajustes que le metí
+<br> Bro, vuelve a desplegar el server, a ver si ya llama bien que vi un problema con el router a ver si ya por lo menos nos muestra la pag principal
