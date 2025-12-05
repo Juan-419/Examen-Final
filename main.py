@@ -8,7 +8,6 @@ from routers.estadisticas import router as estadistica_router
 app = FastAPI(title="sigmotoa FC")
 
 templates = Jinja2Templates(directory="templates")
-
 app.state.templates = templates
 
 @app.on_event("startup")
