@@ -18,3 +18,4 @@ eso es para visual bro, porque la real no se con pycharm como será
 <br>#Nah me lo mama  visual, voy a hacer con ptcharm, voy a ir añadiendo lo de los modelos a ver
 <br> Si te salen mis cambios de los modelos?
 <br> SI bro, solo que esque ya le tenia artas cosas, perame yo subo mis cambios y ya me ayudas a seguir con ese a ver que le ves
+<br> Dale
