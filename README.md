@@ -136,3 +136,6 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'psycopg2'
 
 <br> mira
+<br>
+<br>
+<br> Revisa el router de jugador a ver si te genera error
