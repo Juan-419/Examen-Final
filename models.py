@@ -14,11 +14,12 @@ class JugadorPosicionLink(SQLModel, table=True):
     posicion: Optional[int] = Field(default=None, foreign_key="position.", primary_key=True)
 
 class JugadorBase(SQLModel):
-    dorsal[int] = Field(default=None, primary_key=True)
+    id: Optional[int] = Field(default=None, primary_key=True)
+    dorsal: Optional [int]= None
     nombre: Optional[str]=None
     altura: Optional[float]=None
     peso: Optional[float]=None
-    año_nacimiento: Optional[date]=None
+    anio_nacimiento: Optional[date]=None
     pie_dominante: Optional[str]=None
     tiempo_cancha: Optional[int]=None
     goles: Optional[int]=None
