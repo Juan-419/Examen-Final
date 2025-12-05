@@ -5,7 +5,7 @@ from datetime import date
 
 class JugadorBase(SQLModel):
     nombre: Optional[str]=None
-    altura: Optional[str]=None
+    altura: Optional[float]=None
     peso: Optional[str]=None
     pie_dominante: Optional[str]=None
     tiempo_cancha: Optional[str]=None
@@ -16,7 +16,9 @@ class JugadorBase(SQLModel):
 class Jugador(JugadorBase, table=True):
     dorsal:Optional[str]=None
     active: bool = Field(default=True)
-    goles: Optional[str] =None
+    goles: Optional[str]=None
+    altura = Optional[float]=None
+    pie_dominante = optional[str]=None
 
 
 class Estadistica():
@@ -24,7 +26,7 @@ class Estadistica():
 
 
 class Partido():
-    pass
+
 
 /////
 
