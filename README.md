@@ -24,3 +24,5 @@ https://examen-final-0tdx.onrender.com/
 <br> esa si no tengo idea
 <br>Bro, de donde te guiaste para hacer el router de Jugador, del tuyo si?
 <br> si bro, del de cliente de mi proyecto
+<br>Listo bro, creo que ya está redi el problema que te daba en jugador
+<br>
